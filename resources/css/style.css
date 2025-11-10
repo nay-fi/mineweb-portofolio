@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@theme {
+    --color-primary-900: #16365C;
+    --color-primary-700: #64485E;
+    --color-primary-800: #D0525F;
+    --color-primary-600: #5B8AB3;
+    --color-primary-300: #B9C1E4;
+
+    --font-roboto: "Roboto", sans-serif;
+    --font-park: "Parkinsans", sans-serif;
+}
+
