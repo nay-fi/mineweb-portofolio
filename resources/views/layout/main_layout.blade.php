@@ -10,7 +10,8 @@
     <title>Main</title>
 </head>
 
-<body class=" bg-amber-50 dark:bg-gray-900 dark:text-amber-50">
+<body class="bg-[#081626] text-sky-50"
+    style="background-image: linear-gradient(to bottom, #8FABD4, #4A70A9, #112D4E, #242424)">
     <!-- Section 1 [navbar, carousel, profile] -->
     <div class="flex px-2">
         @include('layout.navbar')
@@ -21,7 +22,8 @@
         @yield('content')
     </div>
 
-
 </body>
+<!-- Footer -->
+@include('layout.footer')
 
 </html>

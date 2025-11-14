@@ -16,7 +16,7 @@
         width: 100%;
         background: linear-gradient(90deg, #000000, #112D4E, #3F72AF, #4A70A9, #8FABD4, #F09C67, #F7E0A3);
         background-size: 110% auto;
-        transition: all .10s;
+        transition: all .5s;
         transform: translateX(-110%);
 
     }
@@ -29,8 +29,8 @@
 </style>
 
 <div class="bg-white dark:bg-gray-950">
-    <header class="absolute inset-x-0 top-0 z-50 backdrop-blur-xl bg-blue-50/5 rounded-b-4xl mx-5 shadow-2xl">
-        <nav aria-label="Global" class="flex items-center justify-between px-24 py-5">
+    <header class="absolute inset-x-0 top-0 z-50 backdrop-blur-xl bg-blue-50/5 rounded-b-4xl mx-16 shadow-2xl">
+        <nav aria-label="Global" class="flex items-center justify-between px-12 py-5">
             <div class="flex lg:flex-1">
                 <a href="#" class="-m-1.5">
                     <img src="/assets/images/stardig.png" alt="" class="h-10 w-auto">
