@@ -6,3 +6,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('main/index_home');
 });
+Route::get('/project', function () {
+    return view('main/project');
+})->name('index.project');

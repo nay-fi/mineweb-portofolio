@@ -7,8 +7,10 @@
         .box:focus {
             box-shadow: 0 0.5em 0.5em -0.4em var(--hover), #fff;
             transform: scale(1.1);
-            transition: 0.3s;
-            background: linear-gradient(140deg, #4A70A9, #112D4E, #252525);
+            transition: 0.5s;
+            border-bottom: 5px solid #fff;
+            background: linear-gradient(120deg, #4A70A9, #112D4E, #252525);
+
         }
     </style>
 
@@ -28,6 +30,7 @@
             </div>
         </div>
     </div>
+
     <!-- About Me -->
     <img src="/assets/images/wave2.svg" alt="" class="-mt-54 overflow-visible">
     <div class="bg-[#8FABD4] h-full py-8 px-24">
@@ -59,7 +62,7 @@
     <div class="px-24 -mt-16">
         <h2 class="text-start text-4xl font-bold my-16">MY EXPERTISE</h2>
         <div class="grid grid-cols-3 gap-4">
-            <div class="col-span-2 grid lg:grid-cols-4 gap-4">
+            <div class="col-span-2 grid grid-cols-2 lg:grid-cols-4 gap-4">
                 <div class="box rounded-2xl shadow-2xl bg-orange-400 m-auto p-8 text-center">
                     <img src="/assets/images/desktop.png" alt="" class="h-32">
                     <h3 class="text-xl font-bold my-1">LARAVEL</h3>
@@ -89,7 +92,7 @@
                     <h3 class="text-xl font-bold my-1">LARAVEL</h3>
                 </div>
             </div>
-            <div class=" rounded-2xl shadow-2xl bg-orange-400 my-8 p-16 text-center align-middle">
+            <div class="h-full rounded-2xl shadow-2xl bg-orange-400 p-16 text-center align-middle">
                 <h3 class="text-center font-bold capitalize text-2xl lg:text-4xl my-4">
                     <span class="text-6xl">4</span><br>Years Experience in Technology Information
                 </h3>
@@ -101,7 +104,7 @@
     <!-- Project -->
     <div class="my-8 py-4 px-24">
         <h3 class="text-start text-4xl font-bold my-16">PROJECT</h3>
-        <div class="my-8 px-8 py-16 rounded-4xl bg-sky-100/5 backdrop-blur-3xl shadow-xl">
+        <div class="my-8 px-8 py-8 rounded-4xl bg-sky-100/5 backdrop-blur-3xl shadow-xl">
             <p class="my-8 flex justify-center items-center gap-2 text-2xl">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor"
                     class="bi bi-circle-fill text-red-400" viewBox="0 0 25 22">
