@@ -9,3 +9,6 @@ Route::get('/', function () {
 Route::get('/project', function () {
     return view('main/project');
 })->name('index.project');
+Route::get('/about', function () {
+    return view('main/about');
+})->name('index.about');

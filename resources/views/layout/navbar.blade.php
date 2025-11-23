@@ -49,7 +49,8 @@
             </div>
             <div class="hidden lg:flex lg:gap-x-8">
                 <a href="/" class="nav text-lg font-park font-semibold text-gray-900 dark:text-white px-5">Home</a>
-                <a href="#" class="nav text-lg font-park font-semibold text-gray-900 dark:text-white px-5">About</a>
+                <a href="{{ route('index.about') }}"
+                    class="nav text-lg font-park font-semibold text-gray-900 dark:text-white px-5">About</a>
                 <a href="{{ route('index.project') }}"
                     class="nav text-lg font-park font-semibold text-gray-900 dark:text-white px-5">Project</a>
                 <a href="#"
