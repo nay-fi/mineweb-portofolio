@@ -63,37 +63,37 @@
         <h2 class="text-start text-4xl font-bold my-16">MY EXPERTISE</h2>
         <div class="grid grid-cols-3 gap-4">
             <div class="col-span-2 grid grid-cols-2 lg:grid-cols-4 gap-4">
-                <div class="box rounded-2xl shadow-2xl bg-orange-400 m-auto p-8 text-center">
+                <div class="box rounded-2xl shadow-2xl backdrop-blur-3xl bg-gray-300/10 m-auto p-8 text-center">
                     <img src="/assets/images/desktop.png" alt="" class="h-32">
                     <h3 class="text-xl font-bold my-1">LARAVEL</h3>
                 </div>
-                <div class="box rounded-2xl shadow-2xl bg-orange-400 m-auto p-8 text-center">
+                <div class="box rounded-2xl shadow-2xl backdrop-blur-3xl bg-gray-300/10 m-auto p-8 text-center">
                     <img src="/assets/images/desktop.png" alt="" class="h-32">
                     <h3 class="text-xl font-bold my-1">LARAVEL</h3>
                 </div>
-                <div class="box rounded-2xl shadow-2xl bg-orange-400 m-auto p-8 text-center">
+                <div class="box rounded-2xl shadow-2xl backdrop-blur-3xl bg-gray-300/10 m-auto p-8 text-center">
                     <img src="/assets/images/desktop.png" alt="" class="h-32">
                     <h3 class="text-xl font-bold my-1">LARAVEL</h3>
                 </div>
-                <div class="box rounded-2xl shadow-2xl bg-orange-400 m-auto p-8 text-center">
+                <div class="box rounded-2xl shadow-2xl backdrop-blur-3xl bg-gray-300/10 m-auto p-8 text-center">
                     <img src="/assets/images/desktop.png" alt="" class="h-32">
                     <h3 class="text-xl font-bold my-1">LARAVEL</h3>
                 </div>
-                <div class="box rounded-2xl shadow-2xl bg-orange-400 m-auto p-8 text-center">
+                <div class="box rounded-2xl shadow-2xl backdrop-blur-3xl bg-gray-300/10 m-auto p-8 text-center">
                     <img src="/assets/images/desktop.png" alt="" class="h-32">
                     <h3 class="text-xl font-bold my-1">LARAVEL</h3>
                 </div>
-                <div class="box rounded-2xl shadow-2xl bg-orange-400 m-auto p-8 text-center">
+                <div class="box rounded-2xl shadow-2xl backdrop-blur-3xl bg-gray-300/10 m-auto p-8 text-center">
                     <img src="/assets/images/desktop.png" alt="" class="h-32">
                     <h3 class="text-xl font-bold my-1">LARAVEL</h3>
                 </div>
-                <div class="box rounded-2xl shadow-2xl bg-orange-400 m-auto p-8 text-center">
+                <div class="box rounded-2xl shadow-2xl backdrop-blur-3xl bg-gray-300/10 m-auto p-8 text-center">
                     <img src="/assets/images/desktop.png" alt="" class="h-32">
                     <h3 class="text-xl font-bold my-1">LARAVEL</h3>
                 </div>
             </div>
-            <div class="h-full rounded-2xl shadow-2xl bg-orange-400 p-16 text-center align-middle">
-                <h3 class="text-center font-bold capitalize text-2xl lg:text-4xl my-4">
+            <div class="h-full rounded-2xl shadow-2xl backdrop-blur-3xl bg-gray-300/10 p-16 text-center align-middle">
+                <h3 class="text-center font-bold capitalize text-2xl lg:text-4xl leading-12 my-4">
                     <span class="text-6xl">4</span><br>Years Experience in Technology Information
                 </h3>
             </div>

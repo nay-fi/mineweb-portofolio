@@ -27,7 +27,7 @@
             </div>
         </div> --}}
         <div class="m-auto p-8 grid lg:grid-cols-2 lg:justify-items-center md:grid-cols-1 gap-4">
-            <!-- Card 1 --> gambar UI bisa dibuat grid seperti kolase
+            <!-- Card 1 -->
             <a class="min-w-90 w-[40em] h-full shrink m-auto p-5 backdrop-blur-3xl bg-gray-300/10 rounded-2xl" href="">
                 <img class="h-56 w-sm object-cover m-auto rounded-2xl border-4" src="assets/images/drawer123.jpg" alt="">
                 <h3
