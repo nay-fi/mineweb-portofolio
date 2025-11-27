@@ -3,14 +3,13 @@
 @section('content')
 
     <div class="">
-        <div class="h-full text-amber-50 bg-no-repeat object-fill bg-cover align-middle m-auto"
+        <div class="h-auto text-amber-50 bg-no-repeat object-fill bg-cover align-middle m-auto"
             style="background-image: url('/assets/images/walphome-b.png');">
             <div class="items-center py-24 px-32">
-                <div class="text-center">
-                    <h2 class="text-2xl lg:text-6xl font-bold">Admin and Front End <p class="text-orange-400">Developer</p>
-                    </h2>
-                    <blockquote class="text-xl/10">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt fugit
-                        consequuntur abearum nemo libero, explicabo odio ea placeat perspiciatis?
+                <div class="text-center my-56">
+                    <h2 class="text-2xl lg:text-6xl font-bold">Realize Your Needs</h2>
+                    <blockquote class="text-xl/10 mx-32 my-8">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                        Nesciunt fugit consequuntur abearum nemo libero, explicabo odio ea placeat perspiciatis?
                     </blockquote>
                 </div>
             </div>
@@ -26,13 +25,13 @@
                     aliquam ducimus officia dolores earum nobis mollitia.</p>
             </div>
         </div> --}}
-        <div class="m-auto p-8 grid lg:grid-cols-2 lg:justify-items-center md:grid-cols-1 gap-4">
+        <h2 class="text-2xl lg:text-5xl text-center font-bold underline underline-offset-8 my-8">Project</h2>
+        <div class="m-auto p-8 grid lg:grid-cols-3 lg:justify-items-center md:flex-row gap-4">
             <!-- Card 1 -->
-            <a class="min-w-90 w-[40em] h-full shrink m-auto p-5 backdrop-blur-3xl bg-gray-300/10 rounded-2xl" href="">
-                <img class="h-56 w-sm object-cover m-auto rounded-2xl border-4" src="assets/images/drawer123.jpg" alt="">
-                <h3
-                    class="text-lg whitespace-normal font-roboto font-bold my-3 text-gray-950 dark:text-gray-100 text-center">
-                    Sistem Informasi Akademik Berbasis Website SMP Ajibarang 01 Banyumas</h3>
+            <a class="min-w-32 w-[24em] h-full shrink m-auto p-5 backdrop-blur-3xl bg-gray-300/10 rounded-2xl" href="">
+                <img src="assets/images/drawer123.jpg" alt="" class="h-72 w-full object-cover m-auto rounded-2xl border-4">
+                <h2 class="text-lg whitespace-normal font-roboto font-bold my-3 text-gray-950 dark:text-gray-100">
+                    Sistem Informasi Akademik Berbasis Website SMP Ajibarang 01 Banyumas</h2>
                 <p class="flex justify-end gap-2 my-3">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                         class="bi bi-circle-fill text-red-500" viewBox="0 0 16 16">
@@ -60,10 +59,10 @@
                 </p>
             </a>
             <!-- Card 2 -->
-            <a class="min-w-90 w-[40em] h-full shrink m-auto p-5 backdrop-blur-3xl bg-gray-300/10 rounded-2xl" href="">
-                <img class="h-56 w-sm object-cover m-auto rounded-2xl border-4" src="assets/images/drawer123.jpg" alt="">
-                <h3 class="text-lg font-roboto font-bold my-3 text-gray-950 dark:text-gray-100 text-center">Sistem
-                    Informasi Akademik Berbasis Website </h3>
+            <a class="min-w-32 w-[24em] h-full shrink m-auto p-5 backdrop-blur-3xl bg-gray-300/10 rounded-2xl" href="">
+                <img src="assets/images/drawer123.jpg" alt="" class="h-72 w-full object-cover m-auto rounded-2xl border-4">
+                <h2 class="text-lg whitespace-normal font-roboto font-bold my-3 text-gray-950 dark:text-gray-100">
+                    Sistem Informasi Akademik Berbasis Website SMP Ajibarang 01 Banyumas</h2>
                 <p class="flex justify-end gap-2 my-3">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                         class="bi bi-circle-fill text-red-500" viewBox="0 0 16 16">
@@ -91,10 +90,10 @@
                 </p>
             </a>
             <!-- Card 3 -->
-            <a class="min-w-90 w-[40em] h-full shrink m-auto p-5 backdrop-blur-3xl bg-gray-300/10 rounded-2xl" href="">
-                <img class="h-56 w-sm object-cover m-auto rounded-2xl border-4" src="assets/images/drawer123.jpg" alt="">
-                <h3 class="text-lg font-roboto font-bold my-3 text-gray-950 dark:text-gray-100 text-center">Sistem
-                    Informasi Akademik Berbasis Website </h3>
+            <a class="min-w-32 w-[24em] h-full shrink m-auto p-5 backdrop-blur-3xl bg-gray-300/10 rounded-2xl" href="">
+                <img src="assets/images/drawer123.jpg" alt="" class="h-72 w-full object-cover m-auto rounded-2xl border-4">
+                <h2 class="text-lg whitespace-normal font-roboto font-bold my-3 text-gray-950 dark:text-gray-100">
+                    Sistem Informasi Akademik Berbasis Website SMP Ajibarang 01 Banyumas</h2>
                 <p class="flex justify-end gap-2 my-3">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                         class="bi bi-circle-fill text-red-500" viewBox="0 0 16 16">
@@ -122,10 +121,10 @@
                 </p>
             </a>
             <!-- Card 4 -->
-            <a class="min-w-90 w-[40em] h-full shrink m-auto p-5 backdrop-blur-3xl bg-gray-300/10 rounded-2xl" href="">
-                <img class="h-56 w-sm object-cover m-auto rounded-2xl border-4" src="assets/images/drawer123.jpg" alt="">
-                <h3 class="text-lg font-roboto font-bold my-3 text-gray-950 dark:text-gray-100 text-center">Sistem
-                    Informasi Akademik Berbasis Website </h3>
+            <a class="min-w-32 w-[24em] h-full shrink m-auto p-5 backdrop-blur-3xl bg-gray-300/10 rounded-2xl" href="">
+                <img src="assets/images/drawer123.jpg" alt="" class="h-72 w-full object-cover m-auto rounded-2xl border-4">
+                <h2 class="text-lg whitespace-normal font-roboto font-bold my-3 text-gray-950 dark:text-gray-100">
+                    Sistem Informasi Akademik Berbasis Website SMP Ajibarang 01 Banyumas</h2>
                 <p class="flex justify-end gap-2 my-3">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                         class="bi bi-circle-fill text-red-500" viewBox="0 0 16 16">
