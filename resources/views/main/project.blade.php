@@ -5,12 +5,20 @@
     <div class="">
         <div class="h-auto text-amber-50 bg-no-repeat object-fill bg-cover align-middle m-auto"
             style="background-image: url('/assets/images/walphome-b.png');">
-            <div class="items-center py-24 px-32">
-                <div class="text-center my-56">
+            <div class="items-center py-24 ps-32 inline-flex">
+                <div class="z-10 text-center my-56">
                     <h2 class="text-2xl lg:text-6xl font-bold">Realize Your Needs</h2>
                     <blockquote class="text-xl/10 mx-32 my-8">Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                         Nesciunt fugit consequuntur abearum nemo libero, explicabo odio ea placeat perspiciatis?
                     </blockquote>
+                </div>
+                <div class="z-0 columns-3 gap-x-8 w-6/6 rotate-45">
+                    <img class="aspect-1/2 object-cover object-left rounded-2xl my-12" src="/assets/images/siakad.png" />
+                    <img class="aspect-1/2 object-cover object-left rounded-2xl my-12" src="/assets/images/anime1.png" />
+                    <img class="aspect-1/2 object-cover object-left rounded-2xl my-12" src="/assets/images/siakad.png" />
+                    <img class="aspect-1/2 object-cover object-left rounded-2xl my-12" src="/assets/images/siakad.png" />
+                    <img class="aspect-1/2 object-cover object-left rounded-2xl my-12" src="/assets/images/siakad.png" />
+                    <img class="aspect-1/2 object-cover object-left rounded-2xl my-12" src="/assets/images/siakad.png" />
                 </div>
             </div>
         </div>
